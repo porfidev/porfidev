@@ -1,11 +1,12 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=porfidev)](https://porfi.dev)
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=porfidev&theme=solarized_dark)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=porfidev)](https://github.com/gazf/github-readme-twitter)
 
 <!--
 **porfidev/porfidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
