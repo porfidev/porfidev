@@ -2,11 +2,15 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=porfidev&theme=solarized_dark)
 
+## Prácticas de programación
+
+* [CRUD de php con MySQLi - 2012](https://github.com/porfidev/demo-php-persons)
+
 ## Classic Portfolio
 
 * [Universidad Tominaga Nakamoto - 2009](https://porfidev.github.io/tominaga-nakamoto/)
 * [Restaurante tritón - 2011](https://porfidev.github.io/restaurante-triton/)
-* [Uniformes Rousseau](https://porfidev.github.io/uniformes-rousseau/)
+* [Uniformes Rousseau - 2011](https://porfidev.github.io/uniformes-rousseau/)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
