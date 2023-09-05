@@ -26,6 +26,9 @@
 
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=porfidev)](https://github.com/gazf/github-readme-twitter)
 
+## 30 Days of Javascript
+* [Day 01 - Drum Kit](https://porfidev.github.io/js30-01-drumkit/)
+
 <!--
 **porfidev/porfidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
